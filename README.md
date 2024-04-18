@@ -1,1 +1,1 @@
-# Bank-Management-System
+The Bank Management System integrates a user-friendly interface for tasks like account management, transaction processing, and report generation, utilizing MySQL for secure data storage and retrieval.
